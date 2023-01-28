@@ -11,3 +11,5 @@
 `/resgatar` insígnia Regate um codigo de insignias q divulgamos (alguns codigos expiram em determinado tempo, usos)
 
 `/ver insígnias` Ver as insignias que tem atualmente no servidor
+
+`/ping` Ver o ping do bot em relação a api do discord
