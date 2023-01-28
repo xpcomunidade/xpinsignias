@@ -13,3 +13,6 @@ Veja meus comandos usando `/`, Resgate uma insignia usando `/resgatar insígnia`
 `/ver insígnias` Ver as insignias que tem atualmente no servidor
 
 `/ping` Ver o ping do bot em relação a api do discord
+
+
+#[Servidor do bot e suporte do mesmo](https://discord.gg/grind)
