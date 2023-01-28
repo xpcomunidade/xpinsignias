@@ -1,6 +1,6 @@
 # Ola, sou o XP+ Insígnias, bot privado que gerencia suas  insignias no servidor [XP+](https://discord.gg/grind)
 
-#Veja meus comandos usando `/`, Resgate uma insignia usando `/resgatar insígnia` ou veja as suas ou dos outros usando `/insígnias`
+Veja meus comandos usando `/`, Resgate uma insignia usando `/resgatar insígnia` ou veja as suas ou dos outros usando `/insígnias`
 
 ## Comandos
 
