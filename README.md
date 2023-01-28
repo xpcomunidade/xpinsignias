@@ -8,7 +8,7 @@ Veja meus comandos usando `/`, Resgate uma insignia usando `/resgatar insígnia`
 
 `/ranking` Veja o ranking das insignias, quem ta no top 10, etc
 
-`/resgatar` insígnia Regate um codigo de insignias q divulgamos (alguns codigos expiram em determinado tempo, usos)
+`/resgatar insígnia` Regate um codigo de insignias q divulgamos (alguns codigos expiram em determinado tempo, usos)
 
 `/ver insígnias` Ver as insignias que tem atualmente no servidor
 
