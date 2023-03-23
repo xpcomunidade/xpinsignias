@@ -15,4 +15,4 @@ Veja meus comandos usando `/`, Resgate uma insignia usando `/resgatar insígnia`
 `/ping` Ver o ping do bot em relação a api do discord
 
 
-## [Servidor do bot e suporte do mesmo](https://discord.gg/grind)
+[![Servidor XP+ ](https://canary.discord.com/api/guilds/898033224608018454/embed.png?style=banner2)](https://discord.gg/grind)
