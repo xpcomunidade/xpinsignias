@@ -12,7 +12,7 @@ Veja meus comandos usando `/`, Resgate uma insignia usando `/resgatar insígnia`
 
 `/ver insígnias` Ver as insignias que tem atualmente no servidor
 
-`/ping` Ver o ping do bot em relação a api do discord
+`/ping` Ver o ping do bot em relação a api do discord.
 
 
 [Servidor XP+ ](https://discord.gg/grind)
